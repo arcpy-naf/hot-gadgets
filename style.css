@@ -40,3 +40,8 @@ a:hover {
 .card-body{
     text-align:center;
 }
+#cate-center{
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset:10px;
+}
