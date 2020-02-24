@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: auto;
+    margin-bottom: 90px;
 }
 .white-bg{
     background-color:white;
@@ -42,6 +42,22 @@ a:hover {
 }
 #cate-center{
     text-align: center;
-    text-decoration: underline;
-    text-underline-offset:10px;
+}   
+.hr{
+    width: 80px;
+    height: 6px;
+    background-color: orange;
+    border-radius: 5px;
+}
+.middle-row{
+    padding: 40px 5px;
+}
+.contact-bg{
+    background-color: palegreen;
+}
+input:focus{
+    color:blue;
+}
+textarea{
+    color:blue;
 }
